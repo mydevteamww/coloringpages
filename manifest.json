@@ -3,10 +3,10 @@
   "description": "",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Coloring Pages-Print And Color",
+  "name": "Coloring Pages:Print And Color",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Coloring Pages-Print And Color",
+  "short_name": "Coloring Pages:Print And Color",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Coloring Pages-Print And Color",
+      "name": "Coloring Pages:Print And Color",
       "url": "",
       "description": ""
     }
